@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="356295fe-9bee-4531-bc82-ee4be793779b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/EvenOddTest.java" afterPath="$PROJECT_DIR$/src/EvenOddTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,16 +26,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="69" column="18" lean-forward="true" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShowProperties.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ShowProperties.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -96,11 +84,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FibonacciCalculator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FibonacciCalculator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FibonacciCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+            <state relative-caret-position="378">
+              <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FactorialInJava.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FactorialInJava.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -173,6 +171,7 @@
         <option value="$PROJECT_DIR$/src/StringReverseExample.java" />
         <option value="$PROJECT_DIR$/src/FibonnacciCalculator.java" />
         <option value="$PROJECT_DIR$/src/FibonacciCalculator.java" />
+        <option value="$PROJECT_DIR$/src/FactorialInJava.java" />
       </list>
     </option>
   </component>
@@ -244,22 +243,7 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
-  <component name="RunManager" selected="Application.FibonacciCalculator">
-    <configuration default="false" name="EvenOddTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="EvenOddTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaExamples" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.FactorialInJava">
     <configuration default="false" name="CheckNumberIsPowerOf2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="CheckNumberIsPowerOf2" />
@@ -308,6 +292,21 @@
     <configuration default="false" name="FibonacciCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="FibonacciCalculator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaExamples" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="FactorialInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="FactorialInJava" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -678,19 +677,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.EvenOddTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CheckNumberIsPowerOf2" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ArmstrongTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.StringReverseExample" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FibonacciCalculator" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CheckNumberIsPowerOf2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ArmstrongTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.StringReverseExample" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FibonacciCalculator" />
+      <item index="4" class="java.lang.String" itemvalue="Application.FactorialInJava" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FibonacciCalculator" />
-        <item index="1" class="java.lang.String" itemvalue="Application.StringReverseExample" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ArmstrongTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CheckNumberIsPowerOf2" />
-        <item index="4" class="java.lang.String" itemvalue="Application.EvenOddTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FactorialInJava" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FibonacciCalculator" />
+        <item index="2" class="java.lang.String" itemvalue="Application.StringReverseExample" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ArmstrongTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CheckNumberIsPowerOf2" />
       </list>
     </recent_temporary>
   </component>
@@ -706,15 +705,15 @@
       <updated>1480944477776</updated>
       <workItem from="1480944480671" duration="3478000" />
       <workItem from="1480947971378" duration="3928000" />
-      <workItem from="1481016236349" duration="5199000" />
+      <workItem from="1481016236349" duration="7869000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12605000" />
+    <option name="totallyTimeSpent" value="15275000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="47" y="24" width="1873" height="1056" extended-state="6" />
+    <frame x="47" y="24" width="1873" height="1056" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -755,7 +754,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1009,8 +1010,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FibonacciCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        <state relative-caret-position="378">
+          <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactorialInJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
           <folding />
         </state>
       </provider>
