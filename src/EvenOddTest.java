@@ -2,9 +2,12 @@
 import java.util.Scanner;
 
 /**
- * Numerele pare sunt de forma n = 2p , unde p este întreg; 2 | n, pentru orice n par.
+ * Numerele PARE sunt de forma n = 2p , unde p este întreg; 2 | n, pentru orice n par.
+ * Numerele PARE se impart exact la 2
+ * Numerele PARE nu dau rest 1
  *
  *
+ *  un număr IMPAR are forma n= 2p+1 , unde p este un număr întreg.
  *
  *
  * Created by ovidiu on 05.12.2016.
